@@ -1,1 +1,3 @@
-# INST326-Final-Project
+# UMD Food Recommender App
+
+Work in progress
